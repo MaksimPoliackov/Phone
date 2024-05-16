@@ -1,0 +1,17 @@
+C:\Games\Simplex\bin\Debug\Simplex.exe.config
+C:\Games\Simplex\bin\Debug\Simplex.exe
+C:\Games\Simplex\bin\Debug\Simplex.pdb
+C:\Games\Simplex\obj\Debug\Simplex.csproj.AssemblyReference.cache
+C:\Games\Simplex\obj\Debug\MainWindow.g.cs
+C:\Games\Simplex\obj\Debug\Vvod.g.cs
+C:\Games\Simplex\obj\Debug\App.g.cs
+C:\Games\Simplex\obj\Debug\Simplex_MarkupCompile.cache
+C:\Games\Simplex\obj\Debug\Simplex_MarkupCompile.lref
+C:\Games\Simplex\obj\Debug\MainWindow.baml
+C:\Games\Simplex\obj\Debug\Vvod.baml
+C:\Games\Simplex\obj\Debug\Simplex.g.resources
+C:\Games\Simplex\obj\Debug\Simplex.Properties.Resources.resources
+C:\Games\Simplex\obj\Debug\Simplex.csproj.GenerateResource.cache
+C:\Games\Simplex\obj\Debug\Simplex.csproj.CoreCompileInputs.cache
+C:\Games\Simplex\obj\Debug\Simplex.exe
+C:\Games\Simplex\obj\Debug\Simplex.pdb
